@@ -1,6 +1,6 @@
 body
 {
-  background-color: ;
+  background-color: #d3edec;
 }
 
 
@@ -9,6 +9,17 @@ body
 .dhoni
 {
   margin-top: -40px;
-  margin-left: 490px;
+  margin-left: 460px;
+  width: 300px;
+
+
+}
+
+.gilchrist
+{
+  margin-top: -42px;
+  margin-left: 1060px;
+  width: 300px;
+
 
 }
